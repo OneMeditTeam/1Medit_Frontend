@@ -36,7 +36,7 @@ const CategorySection = () => {
           className="w-full max-w-xs mx-auto rounded-lg mb-6 h-auto relative z-0"
         />
 
-        <div className="bg-blue-600 text-white p-5 rounded-lg text-base font-medium text-center">
+        <div className="bg-blue-600 text-white p-5 rounded-lg text-base font-medium">
           세분화된 상담 카테고리 <br />
           <span className="text-sm font-normal">
             의사, 노무사, 손해사정사, 변호사 등 세분화된 카테고리를 통해 나에게
@@ -54,7 +54,7 @@ const CategorySection = () => {
           height={300}
           className="w-full max-w-xs mx-auto rounded-lg mb-6 h-auto"
         />
-        <div className="bg-blue-600 text-white p-5 rounded-lg text-base font-medium text-center">
+        <div className="bg-blue-600 text-white p-5 rounded-lg text-base font-medium">
           맞춤 상담사 찾기 필터 <br />
           <span className="text-sm font-normal">
             다양한 필터링으로 한번에 설정하여 자신에게 맞는 전문가를 찾습니다.
