@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "루시트 eXpert",
+  title: "루시드 eXpert",
   description: "전문가 상담 서비스",
 };
 
