@@ -19,7 +19,7 @@ const Footer = () => {
           <ul className="space-y-1 list-disc list-inside">
             <li>대표이사: 최윤석</li>
             <li>사업자번호: 384-88-02883</li>
-            <li>통신판매업신고: 제2024-김포사-1294호</li>
+            <li>통신판매업신고: 제2024-용인수지-1294호</li>
           </ul>
         </div>
 
